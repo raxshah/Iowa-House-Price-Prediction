@@ -1,0 +1,28 @@
+Code Files:
+1. Data Preprocessing
+2. Data Visualization
+3. All_algorithms
+4. PCA with Lasso Regression
+5. Best algorithms
+
+All the code files are located in the notebook folder.
+----------------------
+
+How to run the code ?
+You have to run "Data Preprocessing" file first. Just open the file in jupyter and run all the cell. 
+
+Data Preprocessing -> Data Visulization -> All_algorithms / Best Algorithms / PCA with Lasso (You can select  any one of these three)
+
+File execution should follow above pipeline.
+
+-----------------------
+Packages Required:
+
+Pandas, Numpy, Sklearn, Pickles, Warnings
+
+-----------------------
+Questions?
+If you find any difficulties with the code you can email us :
+
+kp32@iu.edu
+rakshah@umail.iu.edu
